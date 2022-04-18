@@ -1,2 +1,2 @@
 # QR
-dotdrawer.lua 1.0以降が必要
+textmodule 1.3.2以降が必要
