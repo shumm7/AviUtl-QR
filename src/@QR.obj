@@ -40,7 +40,7 @@ local function draw_dots(data, size)
 end
 
 -- textmoduleのバージョンチェック
-if tm.getinfo("version", 2)<25 then
+if tm.getinfo("version", 2)<141 then
 	return
 end
 
